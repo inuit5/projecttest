@@ -4,8 +4,8 @@ import json
 
 # MongoDB connection settings
 mongo_uri = "mongodb://mongodb:27017/"  # Update with your MongoDB URI
-mongo_db_name = "your_db_name"          # Update with your database name
-mongo_collection_name = "your_collection_name"  # Update with your collection name
+mongo_db_name = "data_db"          # Update with your database name
+mongo_collection_name = "collection_ios"  # Update with your collection name
 
 # URL to fetch data from
 url = "https://gdmf.apple.com/v2/pmv"
