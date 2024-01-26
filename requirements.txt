@@ -1,2 +1,5 @@
 # requirements.txt
 pymongo
+pandas
+sqlalchemy
+mysql-connector-python
